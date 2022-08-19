@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: anandzzz360@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an ultra noob. Some people think I'm a big brain and nerd (I am sort of, but not in the things that they think). I'm the laziest person you can ever meet.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnandSuresh02&theme=dark)
