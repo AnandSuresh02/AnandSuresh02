@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Anand here!
 ### Disclaimer: These are just basic informations about me. I could be really different in real life. It could be good or bad, depending on your current impression about me XD.
 
 <!--
@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: anandzzz360@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an ultra noob. Some people think I'm a big brain and nerd (I am sort of, but not in the things that they think). I'm the laziest person you can ever meet.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnandSuresh02&theme=dark)
 
 ### Get in touch:
 <!-- display the social media buttons in your README -->
@@ -48,3 +46,7 @@ Here are some ideas to get you started:
 [1]: http://www.twitter.com/anandsuresh02
 [2]: http://www.facebook.com/anand.suresh.146/
 [6]: http://www.github.com/AnandSuresh02
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnandSuresh02&theme=dark)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnandSuresh02&theme=dark&layout=compact"/>
