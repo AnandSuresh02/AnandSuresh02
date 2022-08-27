@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Anand!</h1>
+<h1 align="center">Hi there 👋 I'm Anand S!</h1>
 
 ### Disclaimer: These are just basic informations about me. I could be really different in real life. It could be good or bad, depending on your current impression about me XD.
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Open-Source**.
 - 🤔 I’m looking for help with anything except your life problems that I can't deal with.
 - 💬 Ask me about **Sci-FI** stuff. I really like those. **Interdimensional travel**, **Time travel**, **Black hole**s, **Big bang**, and even **Multiverse** XD.
-- 📫 How to reach me: anandzzz360@gmail.com
+- 📫 How to reach me: **anandzzz360@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I'm an **ultra noob**. Some people think I'm a **big brain** and **nerd** (I am sort of, but not in the things that they think). I'm the **laziest person you can ever meet**.
 
