@@ -17,6 +17,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I'm an **ultra noob**. Some people think I'm a **big brain** and **nerd** (I am sort of, but not in the things that they think). I'm the **laziest person you can ever meet**.
 
+### Get in touch:
+<p align="left">
+<a href="https://twitter.com/anandsuresh02" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" alt="AnandSuresh02" height="40" width="40" /></a>
+<a href="https://www.instagram.com/_anand._s_/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="AnandSuresh02" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/anand-s-41311a235/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="AnandSuresh02" height="40" width="40" /></a>
+<a href="https://www.reddit.com/user/AnandSuresh02" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Reddit.svg" alt="AnandSuresh02" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/19610751/anand-s" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Stackoverflow.svg" alt="AnandSuresh02" height="40" width="40" /></a>
+<a href="https://t.me/AnandSuresh02" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="AnandSuresh02" height="40" width="40" /></a></p>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnandSuresh02&show_icons=true&theme=dark)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnandSuresh02&theme=dark&layout=compact"/>
