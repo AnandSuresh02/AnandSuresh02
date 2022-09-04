@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/19610751/anand-s" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Stackoverflow.svg" alt="AnandSuresh02" height="40" width="40" /></a>
 <a href="https://t.me/AnandSuresh02" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="AnandSuresh02" height="40" width="40" /></a></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnandSuresh02&margin-w=15&theme=onedark)](https://github.com/AnandSuresh02/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnandSuresh02&margin-w=15&theme=light)](https://github.com/AnandSuresh02/github-profile-trophy)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnandSuresh02&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnandSuresh02&show_icons=true&theme=light)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnandSuresh02&theme=dark&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnandSuresh02&theme=light&layout=compact"/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnandSuresh02&theme=dark" alt="AnandSuresh02"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnandSuresh02&theme=light" alt="AnandSuresh02"/>
