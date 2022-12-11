@@ -1,5 +1,4 @@
-![android](https://user-images.githubusercontent.com/95957257/202852931-cf9a8041-0d5e-4e0c-acd6-be5e6a9a9842.png)
-<h1 align="center">Hi there 👋 I'm Anand S!</h1>
+![android-dark](https://user-images.githubusercontent.com/95957257/206898102-d42db1ba-ea59-4a96-9df9-5826a1c4f6e0.png)
 
 ### Disclaimer: These are just basic informations about me. I could be really different in real life. It could be good or bad, depending on your current impression about me XD.
 
