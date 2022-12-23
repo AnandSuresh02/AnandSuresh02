@@ -1,4 +1,5 @@
 ![android-dark](https://user-images.githubusercontent.com/95957257/206898102-d42db1ba-ea59-4a96-9df9-5826a1c4f6e0.png)
+<h1 align="center">Hi there 👋 I'm Anand S!</h1>
 
 ### Disclaimer: These are just basic informations about me. I could be really different in real life. It could be good or bad, depending on your current impression about me XD.
 
@@ -31,9 +32,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnandSuresh02&margin-w=15&theme=light)](https://github.com/AnandSuresh02/github-profile-trophy)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnandSuresh02&show_icons=true&theme=light)
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnandSuresh02&theme=light&layout=compact"/>
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnandSuresh02&theme=light" alt="AnandSuresh02"/>
 
 ### Anand's holopin board:
