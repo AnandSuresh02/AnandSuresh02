@@ -1,4 +1,4 @@
-![android-dark](https://user-images.githubusercontent.com/95957257/206898102-d42db1ba-ea59-4a96-9df9-5826a1c4f6e0.png)
+![android](https://github.com/AnandSuresh02/AnandSuresh02/assets/95957257/abefa6f3-61fa-4666-88a4-02f89c1665ed)
 <h1 align="center">Hi there 👋 I'm Anand S!</h1>
 
 ### Disclaimer: These are just basic informations about me. I could be really different in real life. It could be good or bad, depending on your current impression about me XD.
