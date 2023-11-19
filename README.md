@@ -1,4 +1,4 @@
-![android](https://github.com/AnandSuresh02/AnandSuresh02/assets/95957257/abefa6f3-61fa-4666-88a4-02f89c1665ed)
+![android-dark](https://github.com/AnandSuresh02/AnandSuresh02/assets/95957257/f0572442-ce89-4435-8cda-35ebe7a104a5)
 <h1 align="center">Hi there 👋 I'm Anand S!</h1>
 
 ### Disclaimer: These are just basic informations about me. I could be really different in real life. It could be good or bad, depending on your current impression about me XD.
@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 ### Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnandSuresh02&margin-w=15&theme=light)](https://github.com/AnandSuresh02/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnandSuresh02&margin-w=15&theme=dracula)](https://github.com/AnandSuresh02/github-profile-trophy)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnandSuresh02&show_icons=true&theme=light)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnandSuresh02&theme=light&layout=compact"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnandSuresh02&theme=light" alt="AnandSuresh02"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnandSuresh02&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnandSuresh02&theme=dark&layout=compact"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnandSuresh02&theme=dark" alt="AnandSuresh02"/>
 
 ### Anand's holopin board:
 [![@Anand's's Holopin board](https://holopin.me/anandsuresh02)](https://holopin.io/@anandsuresh02)
