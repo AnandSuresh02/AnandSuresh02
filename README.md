@@ -37,5 +37,3 @@ Here are some ideas to get you started:
 
 ### Anand's holopin board:
 [![@Anand's's Holopin board](https://holopin.me/anandsuresh02)](https://holopin.io/@anandsuresh02)
-
-[![Anand's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnandSuresh02&bg_color=ffffff&color=000000&line=5c9aff&point=003fbd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
